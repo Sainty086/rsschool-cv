@@ -1,1 +1,1 @@
-https://Sainty086.github.io/rsschool-cv/cv.md
+https://Sainty086.github.io/rsschool-cv/cv
