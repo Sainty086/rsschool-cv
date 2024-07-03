@@ -1,1 +1,1 @@
-#init: add Readme file
+https://github.com/Sainty086/rsschool-cv/blob/gh-pages/CV.md
