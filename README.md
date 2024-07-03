@@ -1,1 +1,1 @@
-#init: add Readme file
+https://Sainty086.github.io/rsschool-cv/CV
