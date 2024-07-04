@@ -5,7 +5,7 @@
 3. I am an engineer trying to get new profession
 4. I am a newbee in programing, just learning how to code.
 5. Code examples
-'''
+'''javascript
     function multiply(a, b){
     a * b
     }
