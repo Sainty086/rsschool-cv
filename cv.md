@@ -1,21 +1,27 @@
 # Zharychev Semen
+
 ---
-### Contact information
-**Tel:** +7 (911) 000-00-00
-**Email:** my-secret-email@email.com
+
+## Contact information
+- **Tel:** +7 (911) 000-00-00
+- **Email:** my-secret-email@email.com
+
 ---
-### About me
+
+## About me
 
 I am an electrical engineer working for more than 14 years in this field. Try to reach new skills.
+
 ---
-### Skills
+
+## Skills
 + Git
 + HTML
 + CSS
 + Photoshop
 + Figma
 ---
-### Code Examples
+## Code Examples
 this is simple code example
 ```javascript
 const func = (num) => {
@@ -26,12 +32,12 @@ const func = (num) => {
 };
 ```
 ---
-### Work Experience
+## Work Experience
 Only have expierence in engineering field.
 Tune JIRA cloud for company processes
 ---
-### Education
+## Education
 High School: Saint-Petersburg Electrotechnical University
 ---
-### English Language
+## English Language
 Feel that have B2 level
