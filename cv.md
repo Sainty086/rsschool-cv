@@ -1,19 +1,37 @@
-#Zharychev Semen
+# Zharychev Semen
 ---
-###Contact Information
+### Contact information
 **Tel:** +7 (911) 000-00-00
 **Email:** my-secret-email@email.com
 ---
-###About me
+### About me
 
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+I am an electrical engineer working for more than 14 years in this field. Try to reach new skills.
 ---
-Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+### Skills
++ Git
++ HTML
++ CSS
++ Photoshop
++ Figma
 ---
-Code Examples
+### Code Examples
+this is simple code example
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
 ---
-Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
+### Work Experience
+Only have expierence in engineering field.
+Tune JIRA cloud for company processes
 ---
-Education (including completed courses and training)
+### Education
+High School: Saint-Petersburg Electrotechnical University
 ---
-English Language (your English proficiency level, and if you had language practice, describe it)
+### English Language
+Feel that have B2 level
